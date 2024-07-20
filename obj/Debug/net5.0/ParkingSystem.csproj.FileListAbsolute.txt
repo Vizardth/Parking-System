@@ -1,0 +1,15 @@
+D:\VSC IDE\source\repo\ParkingSystem\bin\Debug\net5.0\ParkingSystem.exe
+D:\VSC IDE\source\repo\ParkingSystem\bin\Debug\net5.0\ParkingSystem.deps.json
+D:\VSC IDE\source\repo\ParkingSystem\bin\Debug\net5.0\ParkingSystem.runtimeconfig.json
+D:\VSC IDE\source\repo\ParkingSystem\bin\Debug\net5.0\ParkingSystem.runtimeconfig.dev.json
+D:\VSC IDE\source\repo\ParkingSystem\bin\Debug\net5.0\ParkingSystem.dll
+D:\VSC IDE\source\repo\ParkingSystem\bin\Debug\net5.0\ParkingSystem.pdb
+D:\VSC IDE\source\repo\ParkingSystem\obj\Debug\net5.0\ParkingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSC IDE\source\repo\ParkingSystem\obj\Debug\net5.0\ParkingSystem.AssemblyInfoInputs.cache
+D:\VSC IDE\source\repo\ParkingSystem\obj\Debug\net5.0\ParkingSystem.AssemblyInfo.cs
+D:\VSC IDE\source\repo\ParkingSystem\obj\Debug\net5.0\ParkingSystem.csproj.CoreCompileInputs.cache
+D:\VSC IDE\source\repo\ParkingSystem\obj\Debug\net5.0\ParkingSystem.dll
+D:\VSC IDE\source\repo\ParkingSystem\obj\Debug\net5.0\refint\ParkingSystem.dll
+D:\VSC IDE\source\repo\ParkingSystem\obj\Debug\net5.0\ParkingSystem.pdb
+D:\VSC IDE\source\repo\ParkingSystem\obj\Debug\net5.0\ParkingSystem.genruntimeconfig.cache
+D:\VSC IDE\source\repo\ParkingSystem\obj\Debug\net5.0\ref\ParkingSystem.dll
